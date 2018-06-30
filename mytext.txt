@@ -1,0 +1,1 @@
+This is the string we want to write to the file
